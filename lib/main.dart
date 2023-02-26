@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:wonders_of_world/ui/home_page.dart';
 import 'package:wonders_of_world/ui/welcome_page.dart';
 
 void main() {
